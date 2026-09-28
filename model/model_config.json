@@ -1,0 +1,13 @@
+{
+  "model_name": "ResNet50 + extra layers (fine-tuned)",
+  "threshold": 0.19198572635650635,
+  "img_size": 224,
+  "classes": {
+    "0": "No opacity",
+    "1": "Pneumonia"
+  },
+  "val_auc": 0.8622622994895623,
+  "test_auc": 0.8624335005809145,
+  "test_recall": 0.9217970049916805,
+  "test_precision": 0.4067547723935389
+}

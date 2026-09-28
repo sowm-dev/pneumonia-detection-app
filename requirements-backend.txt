@@ -1,0 +1,6 @@
+# Backend (model + preprocessing) dependencies
+tensorflow-cpu==2.20.0
+numpy
+opencv-python-headless
+pydicom
+pillow

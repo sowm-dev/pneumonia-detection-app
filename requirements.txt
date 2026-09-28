@@ -1,0 +1,3 @@
+# Installs both parts:  pip install -r requirements.txt
+-r requirements-backend.txt
+-r requirements-frontend.txt
